@@ -12,7 +12,7 @@ A evalutation project for Flutter Engineers.  It starts as the out of the box co
 
 ## Tasks
 
-1. Put an outline around the number being counted.  This outline should be the primary color, have rounded corners of 8, and have a padding of 16 from the number.
+1. Put an outline around the number being counted.  This outline should be deep purple and have rounded corners of 8, and have a padding of 16 from the number.
 2. Add text at the top of the page, below the navbar, that says "Let's Count".  The counter and outline should remain in the middle of the screen.
 3. Add a container below "Let's Count" that says "Fast Count", then below that add 3 buttons that increase counts by 2, 3, or 5.  The buttons should be in a horizontal line and use all the available space.  When the device is flipped into landscape mode, the buttons should scale to fit.
 4. Below the three buttons add a text only button that says "More Options".  When clicked, it should open a bottom sheet with a list of numbers 10 to 200 by tens i.e (10, 20, 30, ect.). When one of the numbers is clicked the bottom sheet should close and the amount be added to the counter.
