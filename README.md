@@ -1,4 +1,4 @@
-# albi_flutter_evaluation_app
+# Albi Flutter Evaluation App
 
 A evalutation project for Flutter Engineers.  It starts as the out of the box counting app and interviewee makes changes.
 
